@@ -1,3 +1,4 @@
 Schedule 
 
 7 AM - Wake up time
+11 PM - Sleep time added
